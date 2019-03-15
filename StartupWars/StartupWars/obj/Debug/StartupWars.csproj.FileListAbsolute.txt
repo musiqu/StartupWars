@@ -1,0 +1,17 @@
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\bin\Debug\StartupWars.exe.config
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\bin\Debug\StartupWars.exe
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\bin\Debug\StartupWars.pdb
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.csprojAssemblyReference.cache
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.Properties.Resources.resources
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.StartupWars.resources
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.csproj.GenerateResource.cache
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.exe
+C:\Users\Quinn\Documents\Apps\StartUpWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.pdb
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.IntroForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.HireNewEmployeeForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.EmployeeDetailsForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.PopupBoxForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.NewProductForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.ProductDetailsForm.resources
+C:\Users\Quinn\Documents\Apps\StartupWars\StartUpWars_Version_1.0\StartupWars\StartupWars\obj\Debug\StartupWars.PayDebtForm.resources
